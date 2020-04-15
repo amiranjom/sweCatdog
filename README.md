@@ -65,7 +65,7 @@ focused on generating a fast, secure, and efficient application.
 1) Come to the directory **Root** and run the command ```yarn dev``` 
 
 #### To run them separately
-1) ***Front-End:*** Run yarn client in the directory ***Root/Client***
-2) ***Back-End:***  Run yarn server in the directory ***Root***
+1) ***Front-End:*** Run ```yarn client``` in the directory ***Root/Client***
+2) ***Back-End:***  Run ```yarn server``` in the directory ***Root***
 
 
